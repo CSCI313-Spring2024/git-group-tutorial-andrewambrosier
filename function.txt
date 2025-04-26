@@ -1,3 +1,7 @@
+This is a representation of an unfinished function a group member is working
+on.
+
+This is a new change from Benjmain Norling
 
 This is a representation of an unfinished function a group member is working on
 This is a new change from Colin Kuylen
@@ -5,4 +9,3 @@ This is a new change from Colin Kuylen
 This is a representation of an unfinished function a group member is working 
 on.
 This is a new change from Andrew Ambrosier
-
